@@ -1,9 +1,9 @@
-package exercicio1.services;
+package exercicio1refeito.services;
+
+import exercicio1refeito.entities.Contract;
+import exercicio1refeito.entities.Installment;
 
 import java.time.LocalDate;
-
-import exercicio1.entities.Contract;
-import exercicio1.entities.Installment;
 
 public class ContractService {
 
